@@ -1,0 +1,1 @@
+{"WordToGuess":"querelle","GuessedWord":["_","u","e","r","e","l","_","e"],"AttemptsLeft":7,"GuessedLetters":["e","r","z","h","s"]}
